@@ -1,1 +1,2 @@
 # Foundation-of-computer-science
+#Progetto per l'esame di Foundations-of-Computer_Science: vengono svolti i 13 punti richiesti dal docente utilizzando lo "University dataset" fornito dallo stesso e composto dai #tre ranking universitari "The Times Higher Education World University Ranking" (time), "The Academic Ranking of World Universities" (shanghai), "The Center for World University #Rankings" (cwr).
